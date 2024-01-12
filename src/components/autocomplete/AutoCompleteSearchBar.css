@@ -1,0 +1,15 @@
+.search-bar {
+  width: 60%;
+  border: none;
+  padding: 16px;
+  font-size: 16px;
+  min-width: 300px;
+}
+.header {
+  font-size: 32px;
+  padding: 16px;
+  color: #ffffff;
+}
+.search-bar:focus-visible {
+  outline: none;
+}
